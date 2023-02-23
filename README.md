@@ -23,10 +23,8 @@ In addition, I have experience in designing and developing databases using Postg
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbarreto23&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
-<br />
-<br />
 
-**Happy Coding!** 😊
+
 
 </div>
 
