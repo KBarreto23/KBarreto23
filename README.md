@@ -1,67 +1,124 @@
 <div align="center">
-<h2>Welcome to my Github profile! <img src="https://raw.githubusercontent.com/abdoachhoubi/abdoachhoubi/main/gifs/Hi.gif" width="30"></h2>
 
-<a href="https://www.linkedin.com/in/kevin-barreto-bonilla/" target="_blank">
-<img  src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+# 👋 Hey, I'm Kevin Barreto
 
-<br />
+### Full-Stack & Mobile Software Developer
 
+**Web · Mobile · Backend · AI-Assisted Development**
 
-<p align="left">  I'm a software developer with experience in multiple programming languages, including JavaScript, TypeScript, and PHP. I'm passionate about creating web and mobile applications that are easy to use and solve real-world problems. In my recent projects, I have been working with technologies such as React, React Native, Node.js, Express.js, Nest.js, Docker, and PHP.</p>
+<br>
 
-<p align="left">  I have worked on end-to-end web and mobile application development using frameworks like React and React Native for creating user interfaces, and Node.js and Express.js for creating APIs and web services. I have also worked with Nest.js to create scalable and maintainable applications.</p>
-
-<p align="left">  In addition, I have experience in designing and developing databases using PostgreSQL, MariaDB, MySQL, and PHP, and in creating RESTful APIs. I love collaborating with other developers and sharing knowledge through GitHub.</p>
-  
-<br />
-
-
-<br />
-
-
-<img  src="https://github-readme-stats.vercel.app/api?username=kbarreto23&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A"  style="width:250;height:200px;">
-<br />
-<br />
- <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbarreto23&layout=compact&theme=dark&bg_color=0A0A0A" alt="" style="width:250;height:200px;" />
-<br />
-
-<br />
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Barreto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-barreto-bonilla/)
+[![GitHub](https://img.shields.io/badge/GitHub-kbarreto23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kbarreto23)
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+Full-Stack Software Developer focused on building **web, mobile and backend applications** that solve real-world problems.
+
+I work across the entire application lifecycle — from UI and mobile development to **APIs, databases, authentication, integrations and containerized environments**.
+
+Currently expanding my development workflow into **AI-assisted engineering and agentic systems**, using tools like **Claude Code** and exploring AI Agents, MCP, tool calling and LLM integrations.
+
+---
+
+## ⚡ Core Stack
+
+### Frontend & Mobile
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🤖 AI-Assisted & Agentic Development
+
+I'm actively exploring how **AI can become part of the software architecture**, not just a tool for generating code.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6C47FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Integrations-10A37F?style=for-the-badge)
+
+**Currently exploring:**
+
+`Claude Code` · `AI Agents` · `MCP` · `Tool Calling` · `LLM APIs` · `Context Engineering` · `Agentic Workflows`
+
+### Agent Architecture
+
+```mermaid
+flowchart LR
+    User --> App
+    App --> Agent
+    Agent --> LLM
+    Agent --> Tools
+    Tools --> APIs
+    Tools --> Database
+    Tools --> Services
+```
+
+---
+
+## 🚀 What I'm Focused On
+
+```text
+Web & Mobile Development
+        ↓
+Backend Systems & APIs
+        ↓
+AI Integration
+        ↓
+Tool-Enabled Agents
+        ↓
+Agentic Applications
+```
+
+My current goal is combining traditional **software engineering** with modern **AI capabilities** to build applications where agents can interact with APIs, databases and external tools to perform real-world tasks.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## Tech Stack
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kbarreto23&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<br />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbarreto23&layout=compact&theme=github_dark&hide_border=true" />
 
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
-<a margin="10" href="https://svelte.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="svelte"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
-<br />
-<br />
-<a margin="10" href="https://graphcms.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphcms.svg" alt="graphcms"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
-<a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
-<br />
-<br />
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+</div>
+
+---
+
+<div align="center">
+
+### Build · Automate · Iterate 🚀
+
+**Full-Stack · Mobile · Backend · AI**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kbarreto23&style=flat-square)
+
 </div>
